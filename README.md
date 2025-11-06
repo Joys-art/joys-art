@@ -1,4 +1,4 @@
-
+Hai Kids
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bukan_chindo_) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@pemilik_akun_ini_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:joys.kinderjoy@gmail.com) 
 
